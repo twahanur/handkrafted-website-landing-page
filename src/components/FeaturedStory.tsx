@@ -9,7 +9,7 @@ const FeaturedStory: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="../../public/image/features.png"
+              src="/image/features.png"
               alt="Wooden dining table"
               className="w-full h-80 object-cover"
             />

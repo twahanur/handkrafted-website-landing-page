@@ -106,19 +106,19 @@ const Footer: React.FC = () => {
               <a href="#" className="text-gray-600 hover:text-gray-900">
                 <span className="sr-only">Instagram</span>
                 <div className="w-6 h-6 bg-gray-400 rounded">
-                    <img src="../../public/image/instagram.png" alt="Instagram" />
+                    <img src="/image/instagram.png" alt="Instagram" />
                 </div>
               </a>
               <a href="#" className="text-gray-600 hover:text-gray-900">
                 <span className="sr-only">Facebook</span>
                 <div className="w-6 h-6 bg-gray-400 rounded">
-                    <img src="../../public/image/facebook.png" alt="Facebook" />
+                    <img src="/image/facebook.png" alt="Facebook" />
                 </div>
               </a>
               <a href="#" className="text-gray-600 hover:text-gray-900">
                 <span className="sr-only">Pinterest</span>
                 <div className="w-6 h-6 bg-gray-400 rounded">
-                    <img src="../../public/image/pinterest.png" alt="pinterest" />
+                    <img src="/image/pinterest.png" alt="pinterest" />
                 </div>
               </a>
             </div>
