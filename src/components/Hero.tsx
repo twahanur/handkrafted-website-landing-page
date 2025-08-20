@@ -5,7 +5,8 @@ const Hero: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="relative">
           <img
-            src="../../public/image/banner1.png"
+            src="/image/blog1.png" 
+            
             alt="Modern wooden chair"
             className="w-full h-96 object-cover"
           />
