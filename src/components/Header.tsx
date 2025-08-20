@@ -16,14 +16,14 @@ const Header: React.FC = () => {
                 OUR STORY
               </a>
               <a href="#" className="text-sm text-gray-600 hover:text-gray-900">
-                WHY HANDKRAFTED
+                WHY Lloyd brooke furniture
               </a>
             </nav>
           </div>
 
           <div className="flex-1 flex justify-center">
             <h1 className="text-2xl font-serif italic text-gray-900">
-              Handkrafted
+              Lloyd brooke furniture
             </h1>
           </div>
 
