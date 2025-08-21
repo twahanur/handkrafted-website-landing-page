@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a href="#" className="hover:text-gray-900">
-                  WHY HANDKRAFTED
+                  WHY Lloyd Brooke Furniture
                 </a>
               </li>
               <li>
@@ -153,7 +153,7 @@ const Footer: React.FC = () => {
                 Contact Us
               </a>
             </div>
-            <p>Copyright © 2024 Handkrafted Pty Ltd. All rights reserved.</p>
+            <p>Copyright © 2024 Lloyd Brooke Furniture Pty Ltd. All rights reserved.</p>
           </div>
         </div>
       </div>
